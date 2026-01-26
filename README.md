@@ -1,6 +1,6 @@
 # Machine_Learning🤖
 <p>Welcome to Machine_Learning a friendly and easy-to-understand repository created to learn, explore, and practice Machine Learning step by step 🚀
-Whether you’re a beginner or brushing up your basics, this repo is here to help you grow with confidence 💡</p>
+Whether you’re a beginner or brushing up your basics, this repo is here to help you grow with confidence. 💡</p>
 -----------------------------------------------------------------------------------------------------------------
 <h3>📌 What’s Inside?</h3>
 <h4>✨ This repository covers:</h4>
